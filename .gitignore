@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+virtual_env/
+modules/
+zephyr/
+tools/
+build/
+bootloader/
+.west/
