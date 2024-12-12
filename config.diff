@@ -1,0 +1,8 @@
+1104c1104
+< CONFIG_STD_CPP11=y
+---
+> # CONFIG_STD_CPP11 is not set
+1108c1108
+< # CONFIG_STD_CPP20 is not set
+---
+> CONFIG_STD_CPP20=y
